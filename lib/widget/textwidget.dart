@@ -1,6 +1,5 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-
 class TextWidget extends StatelessWidget{
   final String text;
   final Color color;
